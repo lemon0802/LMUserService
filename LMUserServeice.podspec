@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "LMUserServeice"
-  s.version      ="2"
+  s.version      ="0.0.1"
   s.summary      = "LMUserServeice."
 
   # This description is used to generate tags and improve search results.
