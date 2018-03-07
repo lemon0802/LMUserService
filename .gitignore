@@ -1,0 +1,7 @@
+LMUserServeice.xcodeproj/xcuserdata/
+LMUserServeice.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+LMUserServeice.xcodeproj/project.xcworkspace/xcuserdata/
